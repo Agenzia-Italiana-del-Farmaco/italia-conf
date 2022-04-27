@@ -1,0 +1,27 @@
+publisher:
+  name: Agenzia Italiana del Farmaco
+  description: |
+    L'Agenzia Italiana del Farmaco (AIFA) è un ente pubblico competente per
+    l'attività regolatoria dei farmaci in Italia che opera in autonomia,
+    trasparenza e economicità, sotto la direzione del Ministero della Salute e
+    la vigilanza del Ministero della Salute e del Ministero dell’Economia.
+    Collabora con le Regioni, l’Istituto Superiore di Sanità, gli Istituti di
+    Ricovero e Cura a Carattere Scientifico, le Associazioni dei pazienti, i
+    Medici e le Società Scientifiche, il mondo produttivo e distributivo.
+    Oltre a realizzare al proprio interno l'intero processo decisionale,
+    garantendo così l'unitarietà del sistema farmaceutico e l'equità
+    nell'accesso ai medicinali quali strumenti di tutela della salute,
+    l'AIFA governa la spesa farmaceutica, in stretto rapporto con le Regioni e
+    l'industria del settore, perseguendo l'equilibrio economico nell'ambito del
+    tetto di spesa stabilito annualmente dallo Stato.
+  github_organization_url: github.com/aifa-gov-it
+  short_name: AIFA
+  website: https://www.aifa.gov.it
+  address: Via del Tritone 181, 00187 Roma (RM)
+  tags:
+    - documents
+    - public
+    - aifa
+    - agenzia italiana del farmaco
+    - farmaci
+  logo: assets/images/AIFA_Logo_2020.png

@@ -1,0 +1,36 @@
+projects:
+  - name: Settore Information Communication Technology
+    description: |
+      Il Settore ICT svolge le seguenti funzioni:
+      - gestione delle infrastrutture tecnologiche afferenti le attività
+        dell’Agenzia, in forma diretta e/o indiretta, attraverso fornitori
+        esterni;
+      - indicazione delle linee guida di carattere tecnico, tattico e
+        strategico nello sviluppo e mantenimento del Sistema Informativo di
+        Agenzia;
+      - promozione di iniziative di carattere tecnico, tese all’evoluzione dei
+        sistemi dell’Agenzia, in accordo all’evoluzione dei sistemi ICT nel
+        mercato;
+      - gestione del rapporto con i fornitori ICT dell’Agenzia e regolazione
+        dell’erogazione dei servizi;
+      - raccolta e gestione delle istanze delle strutture organizzative
+        dell’Agenzia per lo sviluppo e l’integrazione di nuovi sistemi e/o
+        processi;
+      - supporto alle funzioni istituzionali dell’Agenzia, nel rispetto delle
+        prescrizioni relative alla trasparenza in conformità alla normativa
+        vigente;
+      - assicurazione, nell’ambito dello sviluppo del sistema informativo
+        dell’Agenzia, di specifiche funzioni di analisi dei dati ai fini di
+        governo e del supporto alle decisioni.
+    documents:
+      - ict-disciplinarestrumentiinformatici-doc
+      - ict-<altrorepo1>-doc
+      - ict-<altrorepo2>-doc
+    short_name: ICT
+    website: https://www.aifa.gov.it/settore-information-communication-technology
+    tags:
+      - documents
+      - public
+      - digital
+      - ict
+      - data
