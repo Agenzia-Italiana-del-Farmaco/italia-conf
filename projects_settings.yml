@@ -24,8 +24,6 @@ projects:
         governo e del supporto alle decisioni.
     documents:
       - ict-disciplinarestrumentiinformatici-doc
-      - ict-<altrorepo1>-doc
-      - ict-<altrorepo2>-doc
     short_name: ICT
     website: https://www.aifa.gov.it/settore-information-communication-technology
     tags:
