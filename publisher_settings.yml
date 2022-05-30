@@ -19,9 +19,7 @@ publisher:
   website: https://www.aifa.gov.it
   address: Via del Tritone 181, 00187 Roma (RM)
   tags:
-    - documents
-    - public
-    - agenzia italiana del farmaco
-    - aifa
-    - farmaci
+    - salute
+    - transizione digitale
+    - trasparenza
   logo: assets/images/AIFA_Logo_2020.png
